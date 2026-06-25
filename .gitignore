@@ -1,0 +1,25 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.expo/
+.expo-shared/
+dist/
+build/
+
+uploads/
+*.log
+
+printflow-backend/mongo cred
+backup-old/
+
+app.txt
+components.txt
+frontend.txt
+structure.txt
+TODO.md
